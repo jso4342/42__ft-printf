@@ -1,8 +1,7 @@
 # printf
 printf implementation in c 
 
-Ft_printf (42cursus) 
-2019-2020
+Ft_printf (42cursus) 2020
 
 Actual Status : finished.
 Result : 100%
