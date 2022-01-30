@@ -8,7 +8,7 @@ Actual Status : finished.
 Result : 100%
 
 
-* Restriction *
+//////Restrictions/////
 only few functions are allowed to use 
 - write
 - malloc
